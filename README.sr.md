@@ -31,16 +31,16 @@ Portal sam napisao u čistom PHP-u 8.3, sa MariaDB bazom i Redis kešom, bez Wor
 - Info servis za struju, vodu, grejanje i posao, uz repertoar pozorišta i mesečni raspored lekara koji se otvara po danu
 - Poseban panel za redakciju koji se instalira kao zasebna aplikacija, sa reklamama i brojem prikaza i klikova za svaki baner
 - Javni deo kao aplikacija sa strane /aplikacija/, newsletter sa dvostrukom potvrdom i strane za emisije i video
-- Mobilni PageSpeed 95, a pristupačnost, dobre prakse i SEO 100, izmereno 17. oktobra 2026.
+- Mobilni PageSpeed 96, a pristupačnost, dobre prakse i SEO 100, izmereno 17. oktobra 2026.
 
 ## Merenja
 
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Telefon | 95 | 100 | 100 | 100 |
-| Desktop | 99 | 100 | 100 | 100 |
+| Telefon | 96 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `BroadcastService`, `NewsMediaOrganization`, `RadioStation`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `BroadcastService`, `NewsMediaOrganization`, `RadioStation`.
 
 ## Snimci ekrana
 

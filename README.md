@@ -31,16 +31,16 @@ I wrote the portal in plain PHP 8.3 with MariaDB and a Redis cache, without Word
 - Info service pages for power, water, heating and jobs, plus the theatre programme and a monthly doctors' schedule you can open by day
 - A separate editorial panel installed as its own PWA, with banner ads and view and click counts for each banner
 - A public PWA added from the /aplikacija/ page, a newsletter with double opt-in and pages for shows and video
-- Mobile PageSpeed 95, with accessibility, best practices and SEO at 100, measured on 17 October 2026
+- Mobile PageSpeed 96, with accessibility, best practices and SEO at 100, measured on 17 October 2026
 
 ## Results
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 95 | 100 | 100 | 100 |
-| Desktop | 99 | 100 | 100 | 100 |
+| Mobile | 96 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. axe accessibility check: no violations. Structured data: `BroadcastService`, `NewsMediaOrganization`, `RadioStation`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `BroadcastService`, `NewsMediaOrganization`, `RadioStation`.
 
 ## Screenshots
 
